@@ -1,0 +1,46 @@
+
+*{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    margin: 0.5em 0em;
+}
+
+h3 {    
+    color: salmon;
+}
+
+.fotos{
+    width: 300px;
+    height: auto;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.recetas{
+
+    margin: 1em;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+}
+
+h3:hover{
+    color: lightblue
+}
